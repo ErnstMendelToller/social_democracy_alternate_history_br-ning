@@ -45,7 +45,8 @@ This has been our media course historically, and it has successfully paved over 
 @yellow
 title: Use Vorwärts for Yellow Journalism against our enemies.
 subtitle: This may arguably cause dissent
-on-arrival: left_dissent -= 8; labor_dissent -= 8; center_dissent -= 10; reformist_dissent -= 15; neorevisionist_dissent -= 15
+on-arrival: left_dissent += 8; labor_dissent += 8; center_dissent += 10; reformist_dissent += 15; neorevisionist_dissent += 15
+go-to:gelb-journalimus
 
 @radio
 title: Why not fund a radio station?
