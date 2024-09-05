@@ -19,7 +19,7 @@ There is a constellation of different groups that have grown up around divergenc
 - @easy_discard
 
 @repeal_175
-subtitle: Paragraph 175 currently criminalizes homosexual acts. We can pass a law to change that.
+subtitle: Paragraph 175 currently criminalizes homosexual acts. We can pass a law to change that. This might even help Herr Brüning.
 unavailable-subtitle: We do not have majority support for this policy.
 view-if: repealed_175 == 0
 choose-if: progressive_coalition >= 50 
