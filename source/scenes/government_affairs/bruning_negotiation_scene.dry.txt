@@ -1,4 +1,4 @@
-title: An Ally In Brüning
+title: A Curious Offer
 new-page: true
 is-card: true
 tags: govt_affairs
@@ -6,7 +6,7 @@ on-arrival: month_actions += 1; coalition_affairs_timer = 5
 view-if: spd_in_government = 1 and coalition_dissent >= 1 and coalition_affairs_timer = 0 and (in_grand_coalition) and zentrum_relation >= 4
 card-image: portraits/Brüning-Heinrich.jpg
 
-= An Ally In Brüning
+= A Curious Offer
 
 Our coalition is in trouble. The right-leaning members of the DVP are constantly criticizing us for our policies, and are threatening to call a vote of no confidence to collapse this government[? if spd_prussia :, or to do the same for our government in the state of Prussia ?]. However, thanks to our good relations with Zentrum, Heinrich Brüning has offered to help us reduce this wave of dissent.
   
