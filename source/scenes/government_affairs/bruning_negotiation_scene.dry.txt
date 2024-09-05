@@ -1,9 +1,7 @@
 title: A Curious Offer
 new-page: true
-is-card: true
 tags: govt_affairs
 on-arrival: month_actions += 1; coalition_affairs_timer = 5
-view-if: spd_in_government = 1 and coalition_dissent >= 1 and coalition_affairs_timer = 0 and (in_grand_coalition) and zentrum_relation >= 4
 card-image: portraits/Brüning-Heinrich.jpg
 
 = A Curious Offer
