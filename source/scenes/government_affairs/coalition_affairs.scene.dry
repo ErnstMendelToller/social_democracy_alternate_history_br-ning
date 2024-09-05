@@ -53,11 +53,10 @@ We have called for a vote of no confidence in ourselves, and have brought down t
 New elections have been set for [+ next_election_month : month +] [+ next_election_year +].
 
 
+bruning_negotiation
 title: A Curious Offer
 new-page: true
 tags: govt_affairs
-on-arrival: month_actions += 1; coalition_affairs_timer = 5
-card-image: portraits/Brüning-Heinrich.jpg
 
 = A Curious Offer
 
