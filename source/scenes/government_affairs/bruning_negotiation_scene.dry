@@ -1,0 +1,21 @@
+title: An Ally In Brüning
+new-page: true
+is-card: true
+tags: govt_affairs
+on-arrival: month_actions += 1; coalition_affairs_timer = 5
+view-if: spd_in_government = 1 and coalition_dissent >= 1 and coalition_affairs_timer = 0 and (in_grand_coalition)
+card-image: portraits/Brüning-Heinrich.jpg
+
+= An Ally In Brüning
+
+Our coalition is in trouble. The right-leaning members of the DVP are constantly criticizing us for our policies, and are threatening to call a vote of no confidence to collapse this government[? if spd_prussia :, or to do the same for our government in the state of Prussia ?]. However, thanks to our good relations with Zentrum, Heinrich Brüning has offered to help us reduce this wave of dissent.
+  
+
+- @zentrum_resource: Ask Brüning to contribute resources in a monetary appeasement. 
+- @negotiation : Brüning offers to mediate in our favor to President Hindenburg, who in turn will appease his far-right friends. Considering the President's far right positions, we aren't sure why he could side with us. However, Brüning claims to have a certain degree of influence over the President.
+- @no_change: Refuse his help. We don't need a bourgeois leader's assistance!
+- @easy_discard 
+
+
+  @zentrum_resource
+  
