@@ -37,12 +37,6 @@ By transferring campaign funds to our coalition partners, we can make our polici
 
 No. We will not do this.
 
-@curious
-title: Perhaps there is another solution
-view-if: zentrum_relation >= 4
-go-to: bruning_negotiation
-subtitle: Heinrich Brüning approaches us with a strange offer.
-
 
 @bring_down
 subtitle: Bring down this government before our opponents do.
