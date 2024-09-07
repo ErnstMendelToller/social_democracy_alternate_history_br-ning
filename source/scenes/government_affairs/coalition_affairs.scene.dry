@@ -44,7 +44,7 @@ Our coalition is in trouble. The right-leaning members of the DVP are constantly
 
 @zentrum_resource
 subtitle: -1 Resource
-on-arrival: resources: -= 1; coalition_affairs_timer = 5; dvp_relation += 1
+
 
 Zentrum and SPD both offer monetary resources to appease our coalition partners. Some may call it bribery, but we call it Maintenance of Stability.
 
