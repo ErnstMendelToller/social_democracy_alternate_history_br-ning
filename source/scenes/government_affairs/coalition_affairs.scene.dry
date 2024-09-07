@@ -37,7 +37,7 @@ Our coalition is in trouble. The right-leaning members of the DVP are constantly
 
 - @zentrum_resource: Ask Brüning to contribute resources in a monetary appeasement. 
 - @negotiation : Brüning offers to mediate in our favor to President Hindenburg, who in turn will appease his far-right friends. Considering the President's far right positions, we aren't sure why he could side with us. However, Brüning claims to have a certain degree of influence over the President.
-- @no_change: Refuse his help. We don't need a bourgeois leader's assistance!
+- @no: Refuse his help. We don't need a bourgeois leader's assistance!
 - @easy_discard 
 
 
@@ -54,7 +54,7 @@ on-arrival: coalition_affairs_timer = 5; coalition_dissent -= 5
 
 Heinrich Brüning will meet the President on Friday evening. We can only pray to Reichsführer Otto Braun that he succeeds.
 
-@no_change
+@no
 on-arival: left_dissent -= 8
 
 We do not desire help from the enemy.
