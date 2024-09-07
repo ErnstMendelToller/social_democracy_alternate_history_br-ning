@@ -46,7 +46,37 @@ This has been our media course historically, and it has successfully paved over 
 title: Use Vorwärts for Yellow Journalism against our enemies.
 subtitle: This may arguably cause dissent
 on-arrival: left_dissent += 8; labor_dissent += 8; center_dissent += 10; reformist_dissent += 15; neorevisionist_dissent += 15
+is-new-page: true
 
+= Yellow Journalism
+
+Despite mass unrest within the party, we have managed to arrange for Vorwärts to publish yellow journalism; in other words, publish derogatory and defamatory stories and articles targeted on parties hostile to the SPD. These stories don't have to be true. They just need to sell...
+
+@freaky_yellow
+@Z
+@DVP
+@DVNP
+@KPD 
+
+@Z
+title: Publish defamatory articles against Z
+subtitle: A party of Catholics will be at much risk if accused of harboring atheistic or homosexual elements...
+on-arrival: zentrum_relation -= 1
+
+@DVP 
+title: Publish yellow pages targeted at DVP
+subtitle: A nationalist and conservative party. Or is its leader a former socialist?
+dvp_relation -= 1
+
+@DNVP
+title: We should attack the credibility of the DNVP 
+subtitle: An informant has supposedly let us know that its leader is actually the son of a Rabbi...
+dnvp_relation -= 1
+
+@KPD
+title: Our enemies on the left must be targeted 
+subtitle: Ernst Thälmann is a proletarian. He would never dine with bourgeois sponsors. Or would he?
+kpd_relation_relation -= 1
 
 @radio
 title: Why not fund a radio station?
