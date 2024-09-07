@@ -53,12 +53,12 @@ is-new-page: true
 Despite mass unrest within the party, we have managed to arrange for Vorwärts to publish yellow journalism; in other words, publish derogatory and defamatory stories and articles targeted on parties hostile to the SPD. These stories don't have to be true. They just need to sell...
 
 @freaky_yellow
-@Z
+@zentrumgelbjournalismus
 @DVP
 @DVNP
 @KPD 
 
-@Z
+@zentrumgelbjournalismus
 title: Publish defamatory articles against Z
 subtitle: A party of Catholics will be at much risk if accused of harboring atheistic or homosexual elements...
 on-arrival: zentrum_relation -= 1
